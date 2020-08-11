@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18753" started-at="2020-08-03T17:52:03Z" finished-at="2020-08-03T17:52:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18753" started-at="2020-08-03T17:52:03Z" finished-at="2020-08-03T17:52:21Z">
+      <class name="HandlingScroll.TestScrollBy1">
+        <test-method status="PASS" signature="Test()[pri:0, instance:HandlingScroll.TestScrollBy1@71e7a66b]" name="Test" duration-ms="18721" started-at="2020-08-03T23:22:03Z" finished-at="2020-08-03T23:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- HandlingScroll.TestScrollBy1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
